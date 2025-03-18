@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+xgboost  # If using XGBoost model
+lightgbm  # If using LightGBM model
+joblib  # If saving/loading the model
+requests  # If calling APIs
+scipy  # If required for model processing

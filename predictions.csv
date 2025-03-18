@@ -1,0 +1,10 @@
+Company_Size,Emails_Sent,Calls_Made,Meetings_Scheduled,Website_Visits,Demo_Requests,Competitor_Usage,Industry,Lead_Source,Prediction
+500,10,5,2,10,No,No,IT,Paid Ad,44.0
+99,50,15,1,13,No,No,IT,Paid Ad,28.999999999999996
+200,50,15,10,13,No,No,IT,Paid Ad,31.0
+1000,50,15,5,49,No,No,IT,Referral,25.0
+1000,50,15,5,49,No,No,IT,Paid Ad,24.0
+1000,50,15,5,49,Yes,No,IT,Paid Ad,24.0
+1000,50,15,5,49,Yes,Yes,IT,Paid Ad,24.0
+1000,5,15,5,49,Yes,Yes,IT,Paid Ad,25.0
+500,10,5,2,10,No,No,IT,Paid Ad,44.0
